@@ -8,4 +8,5 @@ public class MichineTire {
 
     void anand(){}
     void dhrumit(){}
+    void rajeshri(){}
 }
